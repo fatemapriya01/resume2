@@ -1,0 +1,114 @@
+/*font-family: 'Montserrat', sans-serif;*/
+.wrapper{
+	max-width: 816px;
+    height: 1056px;
+    margin: 0 auto;
+}
+.body-inner-item{
+    border: 1px solid red;
+    margin: 10px;
+}
+.b-r{
+	border-left: 4px solid black;
+}
+/*left start*/
+.c-name {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+    color: #191919;
+    margin: 20px 0;
+}
+.circle img{
+	height: 180px;
+	width: 180px;
+	border-radius: 50%;
+	border: 8px solid black;
+	margin: 15px;
+}
+/*about  start*/
+.common-bar h2{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 21px;
+	border: 1px solid black;
+    margin: 10px 45px;
+    padding: 5px 0;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+}
+.about-text p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    margin: 20px 0;
+}
+/*about  end*/
+/*contact start*/
+.s-con{
+	margin: 30px 0;
+}
+.icon{
+	font-size: 20px;
+}
+.icon-content{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+.contact{
+	margin-bottom: 156px;
+}
+/*contact end*/
+/*education start*/
+.edu-bar{
+	margin-top: 30px;
+}
+.s-item{
+	margin: 10px 0;
+}
+.circle2{
+	height: 10px;
+	width: 10px;
+	border-radius: 50%;
+	background: black;
+	margin-top: 9px;
+}
+.ct-1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #191919;
+    text-transform: uppercase;
+    margin: 0 0 5px 0;
+}
+.ct-2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #191919;
+    text-transform: uppercase;
+    margin: 0 0 0 0;
+}
+.ct-3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #191919;
+    margin: 0 0 0 0;
+}
+/*education start*/
+/*reference start*/
+.ct-4{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #191919;
+    margin: 0 0 0 0;
+}
+.reference{
+	padding-bottom: 36px;
+}
+/*reference end*/
+/*left ennd
